@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy J. Ignacio Cuatrin 👋
 
-<!--
-**nachocua/nachocua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy desarrollador fullstack con experiencia en creación de aplicaciones web, gestión de proyectos y desarrollo de aplicaciónes embebidas.
 
-Here are some ideas to get you started:
+## Acerca de Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Pregúntame sobre cualquiera de las tecnologías que trabajo sin problema.
+- 📫 Cómo contactarme: [nachocuatrin@gmail.com](mailto:nachocuatrin@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ignaciocuatrin)
+
+## Mis Habilidades
+
+- **Lenguajes de Programación:** C, C++, C#, Js, Java, Vb, ASM, Processing,  
+- **Frameworks y Librerías:** React, Next.js
+- **Herramientas y Tecnologías:** Git
+- **Otros:** Bases de datos SQL y NoSQL, APIs RESTful
+
+## Estadísticas del Perfil
+
+![Mis Estadísticas](https://github-readme-stats.vercel.app/api?username=nachocua&show_icons=true&theme=radical)

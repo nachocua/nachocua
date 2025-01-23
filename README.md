@@ -10,7 +10,7 @@
 ## Mis Habilidades
 
 - **Lenguajes de Programación:** C, C++, C#, Js, Java, Vb, ASM, Processing,  
-- **Frameworks y Librerías:** React, Next.js
+- **Frameworks y Librerías:** React.JS, Next.js, Node.Js, Express.Js
 - **Herramientas y Tecnologías:** Git
 - **Otros:** Bases de datos SQL y NoSQL, APIs RESTful
 

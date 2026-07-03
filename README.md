@@ -13,7 +13,3 @@
 - **Frameworks y Librerías:** React.JS, Next.js, Node.Js, Express.Js
 - **Herramientas y Tecnologías:** Git
 - **Otros:** Bases de datos SQL y NoSQL, APIs RESTful
-
-## Estadísticas del Perfil
-
-![Mis Estadísticas](https://github-readme-stats.vercel.app/api?username=nachocua&show_icons=true&theme=radical)
